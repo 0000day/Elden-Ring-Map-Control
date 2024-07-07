@@ -5,13 +5,13 @@ Have at least 2 monitors.
 Open [Interactive map](https://eldenring.wiki.fextralife.com/Interactive+Map) in your browser and put it to fullscreen on your second monitor.  
 Start the autohotkey-script found in ./autohotkey.  
 Open Elden Ring on your primary monitor.  
-
-Numpad Controls:  
-Control the map with up/down/left/right.  
-Move up/down on checkboxes with 7/1. 
-(Un)check a checkbox with 9.
-
 Have fun playing & enjoy having a fully controllable map on the side.
+
+## Numpad Controls
+Switch map overground <=> underground: __/__  
+Move map: __up/down/left/right__  
+Checkboxes up/down: __7 and 1__  
+Check/Uncheck: __9__
 
 ## Prerequisites / Support
   - [Brave browser](https://brave.com/download/)

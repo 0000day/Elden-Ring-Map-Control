@@ -83,6 +83,7 @@ let handleCheckboxes = (action) => {
   }
   else if (action == "click") {
     cbContainers[activeCbIdx].click();
+    setMapActive();
   }
 }
 
@@ -127,6 +128,7 @@ let checkMaps = async () => {
   applyStyles();
   checkButtons();
   setupEvents();
+  setMapActive();
 }
 
 /**

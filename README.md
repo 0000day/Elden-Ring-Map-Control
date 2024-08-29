@@ -1,3 +1,11 @@
+# DEPRECATED
+Using autohotkey was a bit annoying. I've redone the work with electron and archieved the global keyboard hook natively.  
+No prerequisites anymore ♥.  
+Check it out https://github.com/0000day/eldenringmapv2
+
+
+---
+
 Little quick&dirty project I made for Elden-Ring.
 
 ## What this is about
